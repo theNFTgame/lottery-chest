@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,chest-close_png,chest-open_png,btn_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/chest-close.png",
+			"type": "image",
+			"name": "chest-close_png"
+		},
+		{
+			"url": "assets/chest-open.png",
+			"type": "image",
+			"name": "chest-open_png"
+		},
+		{
+			"url": "assets/btn.png",
+			"type": "image",
+			"name": "btn_png"
+		}
+	]
+}
